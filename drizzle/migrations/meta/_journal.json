@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793454819500,
+      "tag": "0000_neend_guest_commerce",
+      "breakpoints": true
+    }
+  ]
+}
